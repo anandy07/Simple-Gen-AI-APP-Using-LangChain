@@ -1,0 +1,11 @@
+langchain
+langchain_openai
+ipykernel
+python-dotenv
+beautifulsoup4
+langchain_community
+faiss-cpu
+langchain-google-genai
+langchain-chroma 
+langchain-huggingface
+sentence-transformers
